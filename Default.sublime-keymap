@@ -1,0 +1,14 @@
+[
+    { "keys": ["ctrl+alt+pageup"], "command": "reorder_tabs", "args": {"relative": -1} },
+    { "keys": ["ctrl+alt+pagedown"], "command": "reorder_tabs", "args": {"relative": 1} },
+    { "keys": ["ctrl+alt+1"], "command": "reorder_tabs", "args": {"absolute": 0} },
+    { "keys": ["ctrl+alt+2"], "command": "reorder_tabs", "args": {"absolute": 1} },
+    { "keys": ["ctrl+alt+3"], "command": "reorder_tabs", "args": {"absolute": 2} },
+    { "keys": ["ctrl+alt+4"], "command": "reorder_tabs", "args": {"absolute": 3} },
+    { "keys": ["ctrl+alt+5"], "command": "reorder_tabs", "args": {"absolute": 4} },
+    { "keys": ["ctrl+alt+6"], "command": "reorder_tabs", "args": {"absolute": 5} },
+    { "keys": ["ctrl+alt+7"], "command": "reorder_tabs", "args": {"absolute": 6} },
+    { "keys": ["ctrl+alt+8"], "command": "reorder_tabs", "args": {"absolute": 7} },
+    { "keys": ["ctrl+alt+9"], "command": "reorder_tabs", "args": {"absolute": 8} },
+    { "keys": ["ctrl+alt+0"], "command": "reorder_tabs", "args": {"absolute": 9} }
+]

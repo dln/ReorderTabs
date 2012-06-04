@@ -1,0 +1,8 @@
+{
+    "repo": "ReorderTabs",
+    "name": "ReorderTabs",
+    "description": "Reorder tabs/views quickly.",
+    "author": "dln",
+    "homepage": "https://github.com/dln/ReorderTabs",
+    "platforms": ["*"]
+}
